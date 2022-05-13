@@ -51,7 +51,7 @@ const Index: NextPage = () => {
       <a href='https://github.com/FlafyDev/spotify-listen-together'>
         <img src='/images/Github.png' width={64}></img>
       </a>
-      <label>Made by <a href='https://github.com/FlafyDev'>FlafyDev</a></label>
+      <label>Modified by <a href='Arnav :)'>ArnavDev</a></label>
       <label>Recommended client v{config.clientRecommendedVersion}</label>
     </div>
   </div>
